@@ -84,7 +84,7 @@ h1{
 }
 
 /* product browsing page */
-.order-header{
+.products-header{
     background-image: url("assets/order-bg.jpeg");
     background-position: center;
     background-repeat: no-repeat;
@@ -93,7 +93,7 @@ h1{
     height: 50%;
     text-align: center;
 }
-.order-header h1{
+.products-header h1{
     font-size: 5.5vw;
     margin: 0%;
     padding: 0.5em;
